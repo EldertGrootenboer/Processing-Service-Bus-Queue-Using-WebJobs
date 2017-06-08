@@ -1,4 +1,4 @@
-# Processing-Service-Bus-Queue-Using-WebJobs
+# Processing Service Bus Queue Using WebJobs
 A WebJob is a simple way to set up a background job, which can process continuously or on a schedule. WebJobs differ from a cloud service as it gives you get less fine-grained control over your processing environment, making it a more true PaaS service. This sample is part of my blogpost which you can find [here](http://blog.eldert.net/?p=1355).
 
 ## Description
